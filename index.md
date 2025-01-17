@@ -94,11 +94,11 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](dragon-ball-z-goku-warm-up-piunlli97jndx6wg.gif)
 
 ### Large image
 
-![Branching](1661770742752ff6e10fa0a2a51e9aa0.jpg)
+![Branching](dragon-ball-z-goku-warm-up-piunlli97jndx6wg.gif)
 
 
 ### Definition lists can be used with HTML syntax.
